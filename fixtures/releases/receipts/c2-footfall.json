@@ -1,0 +1,9 @@
+{
+  "business_day": "2026-09-30",
+  "producer": "footfall",
+  "attempt": 2,
+  "upstream_cutoff": "c2",
+  "row_count": 1,
+  "sha256": "34204d8188d99a20c7f85b97158547596fea61730bb3a6753951bb8999d9eae2",
+  "path": "data/c2-footfall.jsonl"
+}

@@ -1,0 +1,9 @@
+{
+  "business_day": "2026-09-30",
+  "producer": "sales",
+  "attempt": 1,
+  "upstream_cutoff": "c1",
+  "row_count": 1,
+  "sha256": "19be7b169974b8615da01b9186ca8901e8d35edb61e339b409247b6e40c40d99",
+  "path": "data/c1-sales.jsonl"
+}

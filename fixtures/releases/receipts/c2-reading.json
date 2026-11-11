@@ -1,0 +1,9 @@
+{
+  "business_day": "2026-09-30",
+  "producer": "reading",
+  "attempt": 2,
+  "upstream_cutoff": "c2",
+  "row_count": 1,
+  "sha256": "b2f3a1d87fa05d2b971afa4774934e8b1b2af67fb426a699179bdd18e6a02e8a",
+  "path": "data/c2-reading.jsonl"
+}
